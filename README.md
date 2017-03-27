@@ -64,8 +64,6 @@ After reading above papers, you will have a basic understanding of the Deep Lear
 
 3.2 Fraud Detection
 ------- 
-**[1]** YJ Ko，L Maystre，M Grossglauser. "**Collaborative Recurrent Neural Networks for Dynamic Recommender Systems**".JMLR: Workshop and Conference Proceedings 60:1–16(2016).[[pdf]](http://jmlr.csail.mit.edu/proceedings/papers/v63/ko101.pdf)(**Propose
-a novel, flexible and expressive collaborative sequence model based on recurrent neural networks**):star::star::star: 
 
 3.3 Medication Prediction
 -------
@@ -73,8 +71,15 @@ a novel, flexible and expressive collaborative sequence model based on recurrent
 
 **[2]** Riccardo Miotto, Li Li, Brian A. Kidd, Joel T. Dudley. "**Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records**".Scientific Reports 6:26094(2016).[[pdf]](http://dudleylab.org/wp-content/uploads/2016/05/Deep-Patient-An-Unsupervised-Representation-to-Predict-the-Future-of-Patients-from-the-Electronic-Health-Records.pdf)(** Provide a machine learning framework for augmenting clinical decision systems**):star::star::star:
 
-3.4 Dynamic Recommender
+3.4 Location Prediction
 -------
+**[1]** Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan. "**Predicting the Next Location: A Recurrent Model with Spatial and Temporal
+Contexts**".Thirtieth Aaai Conference on Artificial Intelligence, 194-200(2016).[[pdf]](http://www.shuwu.name/sw/STRNN.pdf)(**Propose ST-RNN model**):star::star::star::star:
 
-3.5 Object Segmentation
+3.5 Dynamic Recommender
+-------
+**[1]** YJ Ko，L Maystre，M Grossglauser. "**Collaborative Recurrent Neural Networks for Dynamic Recommender Systems**".JMLR: Workshop and Conference Proceedings 60:1–16(2016).[[pdf]](http://jmlr.csail.mit.edu/proceedings/papers/v63/ko101.pdf)(**Propose
+a novel, flexible and expressive collaborative sequence model based on recurrent neural networks**):star::star::star: 
+
+3.6 Object Segmentation
 ------- 
