@@ -15,7 +15,7 @@
 
 1.0 Book
 ------- 
-**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning.**" An MIT Press book. (2015). [[pdf]](http://example.net/) has no title attribute(**Deep Learning Bible, you can read this book while reading following papers.**) :star::star::star::star::star:
+**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning.**" An MIT Press book. (2015). [[pdf]](http://www.deeplearningbook.org/front_matter.pdf) has no title attribute(**Deep Learning Bible, you can read this book while reading following papers.**) :star::star::star::star::star:
 
 1.1 Survey
 ------- 
