@@ -19,14 +19,11 @@
 
 1.1 Survey
 ------- 
-
-1.2 Deep Belief Network(DBN)(Milestone of Deep Learning Eve)
+**[1]**David Silver1*, Aja Huang1*, Chris J. Maddison1, Arthur Guez1. "**Mastering the game of Go with deep neural networks and tree search**".Nature 529(7587):484(2016). [[pdf]](http://emotion.psychdept.arizona.edu/Jclub/Silver-et-al.%20Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search+Nature+2016.pdf)(**Introduce a new approachto computer Go that uses ‘value networks’ to evaluate board positions and ‘policy networks’ to select moves.**):star::star:
+1.2 Deep Neural Network(DBN)
 ------- 
 
 1.3 ImageNet Evolution（Deep Learning broke out from here）
-------- 
-
-1.4 Speech Recognition Evolution
 ------- 
 
 After reading above papers, you will have a basic understanding of the Deep Learning history, the basic architectures of Deep Learning model(including CNN, RNN, LSTM) and how deep learning can be applied to image and speech recognition issues. The following papers will take you in-depth understanding of the Deep Learning method, Deep Learning in different areas of application and the frontiers. I suggest that you can choose the following papers based on your interests and research direction.
@@ -64,23 +61,15 @@ After reading above papers, you will have a basic understanding of the Deep Lear
 3.1 NLP(Natural Language Processing)
 ------- 
 
-3.2 Object Detection
+3.2 Fraud Detection
 ------- 
 
-3.3 Visual Tracking
+3.3 Dynamic Recommender
 ------- 
 
-3.4 Image Caption
+3.4 Robotics
 ------- 
 
-3.5 Machine Translation
-------- 
 
-3.6 Robotics
-------- 
-
-3.7 Art
-------- 
-
-3.8 Object Segmentation
+3.5 Object Segmentation
 ------- 
