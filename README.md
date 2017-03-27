@@ -19,7 +19,7 @@
 
 1.1 Survey
 ------- 
-**[1]**David Silver1*, Aja Huang1*, Chris J. Maddison1, Arthur Guez1. "**Mastering the game of Go with deep neural networks and tree search**".Nature 529(7587):484(2016). [[pdf]](http://emotion.psychdept.arizona.edu/Jclub/Silver-et-al.%20Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search+Nature+2016.pdf)(**Introduce a new approachto computer Go that uses ‘value networks’ to evaluate board positions and ‘policy networks’ to select moves.**):star::star:
+**[1]**David Silver1*, Aja Huang1*, Chris J. Maddison1, Arthur Guez1. "**Mastering the game of Go with deep neural networks and tree search.**".Nature 529(7587):484(2016). [[pdf]](http://emotion.psychdept.arizona.edu/Jclub/Silver-et-al.%20Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search+Nature+2016.pdf)(**Introduce a new approachto computer Go that uses ‘value networks’ to evaluate board positions and ‘policy networks’ to select moves.**):star::star:
 
 1.2 Deep Neural Network(DBN)
 ------- 
@@ -49,7 +49,7 @@ After reading above papers, you will have a basic understanding of the Deep Lear
 
 2.6 Deep Reinforcement Learning
 ------- 
-**[1]** Volodymyr Mnih,Koray Kavukcuoglu,David Silver,Alex Graves. "**Playing Atari with Deep Reinforcement Learning**"	Computer Science:1312.5602(2013). [[pdf]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/dqn.pdf)(**Convolutional neural network.**):star::star::star::star::star:
+**[1]** Volodymyr Mnih,Koray Kavukcuoglu,David Silver,Alex Graves. "**Playing Atari with Deep Reinforcement Learning.**"	Computer Science:1312.5602(2013). [[pdf]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/dqn.pdf)(**Convolutional neural network.**):star::star::star::star::star:
 
 2.7 Deep Transfer Learning / Lifelong Learning / especially for RL
 ------- 
@@ -68,19 +68,22 @@ After reading above papers, you will have a basic understanding of the Deep Lear
 
 3.3 Medication Prediction
 -------
-**[1]** Edward Choi，Andy Schuetz，Jimeng Sun. "**Doctor AI: Predicting Clinical Events via Recurrent Neural Networks**".Computer Science arXiv:1511.05942(2015).[[pdf]](http://net.pku.edu.cn/dlib/healthcare/EMR%20event%20sequence/Predicting%20Clinical%20Events%20via%20Recurrent%20Neural%20Networks.pdf)(**Propose a generic predictive model that covers observed medical conditions and medication uses.**) :star::star::star::star:
+**[1]** Edward Choi，Andy Schuetz，Jimeng Sun. "**Doctor AI: Predicting Clinical Events via Recurrent Neural Networks.**".Computer Science arXiv:1511.05942(2015).[[pdf]](http://net.pku.edu.cn/dlib/healthcare/EMR%20event%20sequence/Predicting%20Clinical%20Events%20via%20Recurrent%20Neural%20Networks.pdf)(**Propose a generic predictive model that covers observed medical conditions and medication uses.**) :star::star::star::star:
 
-**[2]** Riccardo Miotto, Li Li, Brian A. Kidd, Joel T. Dudley. "**Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records**".Scientific Reports 6:26094(2016).[[pdf]](http://dudleylab.org/wp-content/uploads/2016/05/Deep-Patient-An-Unsupervised-Representation-to-Predict-the-Future-of-Patients-from-the-Electronic-Health-Records.pdf)(** Provide a machine learning framework for augmenting clinical decision systems.**):star::star::star:
+**[2]** Riccardo Miotto, Li Li, Brian A. Kidd, Joel T. Dudley. "**Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records.**".Scientific Reports 6:26094(2016).[[pdf]](http://dudleylab.org/wp-content/uploads/2016/05/Deep-Patient-An-Unsupervised-Representation-to-Predict-the-Future-of-Patients-from-the-Electronic-Health-Records.pdf)(** Provide a machine learning framework for augmenting clinical decision systems.**):star::star::star:
 
 3.4 Location Prediction
 -------
 **[1]** Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan. "**Predicting the Next Location: A Recurrent Model with Spatial and Temporal
-Contexts**".Thirtieth Aaai Conference on Artificial Intelligence, 194-200(2016).[[pdf]](http://www.shuwu.name/sw/STRNN.pdf)(**Propose ST-RNN model.**):star::star::star::star:
+Contexts.**".Thirtieth Aaai Conference on Artificial Intelligence, 194-200(2016).[[pdf]](http://www.shuwu.name/sw/STRNN.pdf)(**Propose ST-RNN model.**):star::star::star::star:
 
 3.5 Dynamic Recommender
 -------
-**[1]** YJ Ko，L Maystre，M Grossglauser. "**Collaborative Recurrent Neural Networks for Dynamic Recommender Systems**".JMLR: Workshop and Conference Proceedings 60:1–16(2016).[[pdf]](http://jmlr.csail.mit.edu/proceedings/papers/v63/ko101.pdf)(**Propose
+**[1]** YJ Ko,L Maystre,M Grossglauser. "**Collaborative Recurrent Neural Networks for Dynamic Recommender Systems.**".JMLR: Workshop and Conference Proceedings 60:1–16(2016).[[pdf]](http://jmlr.csail.mit.edu/proceedings/papers/v63/ko101.pdf)(**Propose
 a novel, flexible and expressive collaborative sequence model based on recurrent neural networks.**):star::star::star: 
+
+**[2]** Yang Song,Ali Mamdouh Elkahky，XiaoDong He. "**Multi-Rate Deep Learning for Temporal Recommendation.**" International Acm Sigir Conference :909-912(2016).[[pdf]](http://sonyis.me/paperpdf/spr209-song_sigir16.pdf)(** Propose a novel deep
+neural network based architecture that models the combination of long-term static and short-term temporal user preferences**) :star::star:
 
 3.6 Object Segmentation
 ------- 
