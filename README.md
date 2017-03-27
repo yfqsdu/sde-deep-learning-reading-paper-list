@@ -67,8 +67,12 @@ After reading above papers, you will have a basic understanding of the Deep Lear
 **[1]** YJ Ko，L Maystre，M Grossglauser. "**Collaborative Recurrent Neural Networks for Dynamic Recommender Systems**".JMLR: Workshop and Conference Proceedings 60:1–16(2016).[[pdf]](http://jmlr.csail.mit.edu/proceedings/papers/v63/ko101.pdf)(**Propose
 a novel, flexible and expressive collaborative sequence model based on recurrent neural networks**):star::star::star: 
 
-3.3 Dynamic Recommender
+3.3 Medication Prediction
+
+**[1]** Edward Choi，Andy Schuetz，Jimeng Sun. "**Doctor AI: Predicting Clinical Events via Recurrent Neural Networks**".Computer Science arXiv:1511.05942(2015).[[pdf]](http://net.pku.edu.cn/dlib/healthcare/EMR%20event%20sequence/Predicting%20Clinical%20Events%20via%20Recurrent%20Neural%20Networks.pdf)(** Propose a generic predictive model that covers observed medical conditions and medication uses**):star::star::star::star:
+
+3.4 Dynamic Recommender
 -------
 
-3.4 Object Segmentation
+3.5 Object Segmentation
 ------- 
