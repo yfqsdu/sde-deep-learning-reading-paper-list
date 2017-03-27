@@ -1,13 +1,13 @@
 # sde-deep-learning-reading-paper-list
 
 填写须知：
-=======
+-------
 
-    深度学习小组paper仓库，每个人即时將所阅读的paper上传到此处分享。
-    paper的格式请按照标题1.0下的格式来编辑，并放到相应的标题下，如没有对应的标题可以自建标题。
-    标题下需要添加7个减号（语法规定）。:star:代表重要程度; 加粗请左右歌使用两个星号包裹；
-    标题1.0下已经演示使用方式。
-    commit时请填写更新详细描述。
+- 深度学习小组paper仓库，每个人即时將所阅读的paper上传到此处分享。
+- paper的格式请按照标题1.0下的格式来编辑，并放到相应的标题下，如没有对应的标题可以自建标题。
+- 标题下需要添加7个减号（语法规定）。:star:代表重要程度; 加粗请左右歌使用两个星号包裹；
+- 标题1.0下已经演示使用方式。
+- commit时请填写更新详细描述。
 
 ---------------------------------------
 
@@ -20,13 +20,13 @@
 
 ## 1.1 Survey
 
-**[1]**David Silver1*, Aja Huang1*, Chris J. Maddison1, Arthur Guez1. "**Mastering the game of Go with deep neural networks and tree search.**".Nature 529(7587):484(2016). [[pdf]](http://emotion.psychdept.arizona.edu/Jclub/Silver-et-al.%20Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search+Nature+2016.pdf)(**Introduce a new approachto computer Go that uses ‘value networks’ to evaluate board positions and ‘policy networks’ to select moves.**):star::star:
+**[1]** David Silver1, Aja Huang1, Chris J. Maddison1, Arthur Guez1. "**Mastering the game of Go with deep neural networks and tree search.**".Nature 529(7587):484(2016). [[pdf]](http://emotion.psychdept.arizona.edu/Jclub/Silver-et-al.%20Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search+Nature+2016.pdf)(**Introduce a new approachto computer Go that uses ‘value networks’ to evaluate board positions and ‘policy networks’ to select moves.**):star::star:
 
 ## 1.2 Deep Neural Network(DBN)
 
 ## 1.3 ImageNet Evolution（Deep Learning broke out from here）
-
-After reading above papers, you will have a basic understanding of the Deep Learning history, the basic architectures of Deep Learning model(including CNN, RNN, LSTM) and how deep learning can be applied to natural language processing and predcition recognition issues. The following papers will take you in-depth understanding of the Deep Learning method, Deep Learning in different areas of application and the frontiers. I suggest that you can choose the following papers based on your interests and research direction.
+ 
+>After reading above papers, you will have a basic understanding of the Deep Learning history, the basic architectures of Deep Learning model(including CNN, RNN, LSTM) and how deep learning can be applied to natural language processing and predcition recognition issues. The following papers will take you in-depth understanding of the Deep Learning method, Deep Learning in different areas of application and the frontiers. I suggest that you can choose the following papers based on your interests and research direction.
 
 # 2 Deep Learning Method
 
