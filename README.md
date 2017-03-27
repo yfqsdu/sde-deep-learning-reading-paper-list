@@ -15,7 +15,7 @@
 
 1.0 Book
 ------- 
-**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning.**" An MIT Press book. (2015). [[pdf]](http://www.deeplearningbook.org/front_matter.pdf) has no title attribute(**Deep Learning Bible, you can read this book while reading following papers.**) :star::star::star::star::star:
+**[1]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning.**" An MIT Press book. (2015). [[pdf]](http://www.deeplearningbook.org/front_matter.pdf) has no title attribute(**Deep Learning Bible, you can read this book while reading following papers.**) :star::star::star::star::star:
 
 1.1 Survey
 ------- 
@@ -64,13 +64,11 @@ After reading above papers, you will have a basic understanding of the Deep Lear
 
 3.2 Fraud Detection
 ------- 
+**[1]** YJ Ko，L Maystre，M Grossglauser. "**Collaborative Recurrent Neural Networks for Dynamic Recommender Systems**".JMLR: Workshop and Conference Proceedings 60:1–16(2016).[[pdf]](http://jmlr.csail.mit.edu/proceedings/papers/v63/ko101.pdf)(**Propose
+a novel, flexible and expressive collaborative sequence model based on recurrent neural networks**):star::star::star: 
 
 3.3 Dynamic Recommender
-------- 
+-------
 
-3.4 Robotics
-------- 
-
-
-3.5 Object Segmentation
+3.4 Object Segmentation
 ------- 
