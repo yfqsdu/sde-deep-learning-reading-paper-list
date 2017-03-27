@@ -20,6 +20,7 @@
 1.1 Survey
 ------- 
 **[1]**David Silver1*, Aja Huang1*, Chris J. Maddison1, Arthur Guez1. "**Mastering the game of Go with deep neural networks and tree search**".Nature 529(7587):484(2016). [[pdf]](http://emotion.psychdept.arizona.edu/Jclub/Silver-et-al.%20Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search+Nature+2016.pdf)(**Introduce a new approachto computer Go that uses ‘value networks’ to evaluate board positions and ‘policy networks’ to select moves.**):star::star:
+
 1.2 Deep Neural Network(DBN)
 ------- 
 
