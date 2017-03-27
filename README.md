@@ -82,7 +82,7 @@ Contexts.**".Thirtieth Aaai Conference on Artificial Intelligence, 194-200(2016)
 **[1]** YJ Ko,L Maystre,M Grossglauser. "**Collaborative Recurrent Neural Networks for Dynamic Recommender Systems.**".JMLR: Workshop and Conference Proceedings 60:1–16(2016).[[pdf]](http://jmlr.csail.mit.edu/proceedings/papers/v63/ko101.pdf)(**Propose
 a novel, flexible and expressive collaborative sequence model based on recurrent neural networks.**):star::star::star: 
 
-**[2]** Yang Song,Ali Mamdouh Elkahky，XiaoDong He. "**Multi-Rate Deep Learning for Temporal Recommendation.**" International Acm Sigir Conference :909-912(2016).[[pdf]](http://sonyis.me/paperpdf/spr209-song_sigir16.pdf)(** Propose a novel deep
+**[2]** Yang Song,Ali Mamdouh Elkahky，XiaoDong He. "**Multi-Rate Deep Learning for Temporal Recommendation.**" International Acm Sigir Conference :909-912(2016).[[pdf]](http://sonyis.me/paperpdf/spr209-song_sigir16.pdf)(**Propose a novel deep
 neural network based architecture that models the combination of long-term static and short-term temporal user preferences**) :star::star:
 
 3.6 Object Segmentation
