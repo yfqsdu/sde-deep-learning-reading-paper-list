@@ -63,6 +63,8 @@
 
 ## 3.1 NLP(Natural Language Processing)
 
+**[1]** Jin Qian, Qi Zhang, Ya Guo, Yaqian Zhou, Xuanjing Huang. "**Generating Abbreviations for Chinese Named Entities Using RecurrentNeural Network with Dynamic Dictionary.**" Conference on Empirical Methods in Natural Language Processing :721-370(2016).[[pdf]](http://anthology.aclweb.org/D/D16/D16-1069.pdf)(**Combines recurrent neural network (RNN) with an architecture determining whether a given sequence of characters can be a word or not.**) :star::star::star:
+
 ## 3.2 Fraud Detection
 
 ## 3.3 Medication Prediction
