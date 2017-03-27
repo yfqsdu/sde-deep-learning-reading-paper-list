@@ -71,6 +71,8 @@ a novel, flexible and expressive collaborative sequence model based on recurrent
 -------
 **[1]** Edward Choi，Andy Schuetz，Jimeng Sun. "**Doctor AI: Predicting Clinical Events via Recurrent Neural Networks**".Computer Science arXiv:1511.05942(2015).[[pdf]](http://net.pku.edu.cn/dlib/healthcare/EMR%20event%20sequence/Predicting%20Clinical%20Events%20via%20Recurrent%20Neural%20Networks.pdf)(**Propose a generic predictive model that covers observed medical conditions and medication uses**) :star::star::star::star:
 
+**[2]** Riccardo Miotto, Li Li, Brian A. Kidd, Joel T. Dudley. "**Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records**".Scientific Reports 6:26094(2016).[[pdf]](http://dudleylab.org/wp-content/uploads/2016/05/Deep-Patient-An-Unsupervised-Representation-to-Predict-the-Future-of-Patients-from-the-Electronic-Health-Records.pdf)(** Provide a machine learning framework for augmenting clinical decision systems**):star::star::star:
+
 3.4 Dynamic Recommender
 -------
 
