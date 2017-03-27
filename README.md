@@ -69,7 +69,7 @@ a novel, flexible and expressive collaborative sequence model based on recurrent
 
 3.3 Medication Prediction
 
-**[1]** Edward Choi，Andy Schuetz，Jimeng Sun. "**Doctor AI: Predicting Clinical Events via Recurrent Neural Networks**".Computer Science arXiv:1511.05942(2015).[[pdf]](http://net.pku.edu.cn/dlib/healthcare/EMR%20event%20sequence/Predicting%20Clinical%20Events%20via%20Recurrent%20Neural%20Networks.pdf)(** Propose a generic predictive model that covers observed medical conditions and medication uses**):star::star::star::star:
+**[1]** Edward Choi，Andy Schuetz，Jimeng Sun. "**Doctor AI: Predicting Clinical Events via Recurrent Neural Networks**".Computer Science arXiv:1511.05942(2015).[[pdf]](http://net.pku.edu.cn/dlib/healthcare/EMR%20event%20sequence/Predicting%20Clinical%20Events%20via%20Recurrent%20Neural%20Networks.pdf)(**Propose a generic predictive model that covers observed medical conditions and medication uses**) :star::star::star::star:
 
 3.4 Dynamic Recommender
 -------
