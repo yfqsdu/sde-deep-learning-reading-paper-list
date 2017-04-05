@@ -87,5 +87,5 @@ a novel, flexible and expressive collaborative sequence model based on recurrent
 neural network based architecture that models the combination of long-term static and short-term temporal user preferences**) :star::star:
 
 ## 3.6 Object Segmentation
-## 3.3 Data Imputation
+## 3.7 Data Imputation
 **[1]** Beaulieujones, B. K., and J. H. Moore. "**MISSING DATA IMPUTATION IN THE ELECTRONIC HEALTH RECORD USING DEEPLY LEARNED AUTOENCODERS.**" Pacific Symposium on Biocomputing Pacific Symposium on Biocomputing 22(2016):207.[[pdf]](http://psb.stanford.edu/psb-online/proceedings/psb17/beaulieujones.pdf)(**Proposed a novel method to impute missing data in EHR**):star::star:
