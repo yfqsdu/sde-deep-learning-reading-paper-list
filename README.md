@@ -69,10 +69,12 @@
 
 ## 3.3 Medication Prediction
 
-**[1]** Edward Choi，Andy Schuetz，Jimeng Sun. "**Doctor AI: Predicting Clinical Events via Recurrent Neural Networks.**".Computer Science arXiv:1511.05942(2015).[[pdf]](http://net.pku.edu.cn/dlib/healthcare/EMR%20event%20sequence/Predicting%20Clinical%20Events%20via%20Recurrent%20Neural%20Networks.pdf)(**Propose a generic predictive model that covers observed medical conditions and medication uses.**) :star::star::star::star:
+**[1]** Edward Choi，Andy Schuetz，Jimeng Sun. "**Doctor AI: Predicting Clinical Events via Recurrent Neural Networks.**" Computer Science arXiv:1511.05942(2015).[[pdf]](http://net.pku.edu.cn/dlib/healthcare/EMR%20event%20sequence/Predicting%20Clinical%20Events%20via%20Recurrent%20Neural%20Networks.pdf)(**Propose a generic predictive model that covers observed medical conditions and medication uses.**) :star::star::star::star:
 
-**[2]** Riccardo Miotto, Li Li, Brian A. Kidd, Joel T. Dudley. "**Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records.**".Scientific Reports 6:26094(2016).[[pdf]](http://dudleylab.org/wp-content/uploads/2016/05/Deep-Patient-An-Unsupervised-Representation-to-Predict-the-Future-of-Patients-from-the-Electronic-Health-Records.pdf)(** Provide a machine learning framework for augmenting clinical decision systems.**):star::star::star:
+**[2]** Riccardo Miotto, Li Li, Brian A. Kidd, Joel T. Dudley. "**Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records.**" Scientific Reports 6:26094(2016).[[pdf]](http://dudleylab.org/wp-content/uploads/2016/05/Deep-Patient-An-Unsupervised-Representation-to-Predict-the-Future-of-Patients-from-the-Electronic-Health-Records.pdf)(** Provide a machine learning framework for augmenting clinical decision systems.**):star::star::star:
 
+**[3]** Xiaohan Li, Shu Wu, Liang Wang. "**Blood Pressure Prediction via Recurrent Models with Contextual Layer.**" WWW 2017, April 3–7, Perth, Australia(2017).[[pdf]](http://www.shuwu.name/sw/RNN-CL.pdf)(**Propose a novel model named recurrent models with contextual layer.**):star::star::star::star:
+ 
 ## 3.4 Location Prediction
 
 **[1]** Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan. "**Predicting the Next Location: A Recurrent Model with Spatial and Temporal
